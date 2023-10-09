@@ -36,6 +36,8 @@
         <state>available</state>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2022-01-21 15:03:32</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
         <sys_id>39925efb1b818d10b81fdce7cc4bcbaf</sys_id>
         <sys_mod_count>5</sys_mod_count>
         <sys_updated_by>admin</sys_updated_by>
